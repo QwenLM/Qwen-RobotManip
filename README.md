@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2606.17846">📑 Technical Report</a> |
     <a href="https://qwen.ai/blog?id=qwen-robotmanip">📖 Blog</a> |
-    <a href="https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_1.mp4">🖥️ Demo</a>
+    <a href="https://github.com/user-attachments/assets/40f02223-b9cc-4962-8e33-6d96fd44db51">🖥️ Demo</a>
 </p>
 
 </div>
@@ -31,10 +31,10 @@ Welcome to the official repository of **Qwen-RobotManip**. Here, you can find of
 <table>
   <tr>
     <td width="50%">
-      <video src="https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_1.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="https://github.com/user-attachments/assets/40f02223-b9cc-4962-8e33-6d96fd44db51" width="100%" preload="metadata" controls playsinline></video>
     </td>
     <td width="50%">
-      <video src="https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_2.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="https://github.com/user-attachments/assets/2dab71f6-9b75-45e6-b314-6b7e78240a0f" width="100%" preload="metadata" controls playsinline></video>
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@ Qwen-RobotManip is validated across real-robot platforms and tasks, demonstratin
   </tr>
 </table>
 
-If the videos do not render in your browser, open the direct links: [Omni Demo 1](https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_1.mp4), [Omni Demo 2](https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_2.mp4), [Real Robot 1](https://github.com/user-attachments/assets/2644976f-eadb-4a6d-958f-0d9c7f794800), [Real Robot 2](https://github.com/user-attachments/assets/ca7b7c2a-178c-427c-a5b1-64f174e7f7e4), and [Real Robot 3](https://github.com/user-attachments/assets/7938f77f-d757-4a13-a6da-70fc602020c5).
+If the videos do not render in your browser, open the direct links: [Omni Demo 1](https://github.com/user-attachments/assets/40f02223-b9cc-4962-8e33-6d96fd44db51), [Omni Demo 2](https://github.com/user-attachments/assets/2dab71f6-9b75-45e6-b314-6b7e78240a0f), [Real Robot 1](https://github.com/user-attachments/assets/2644976f-eadb-4a6d-958f-0d9c7f794800), [Real Robot 2](https://github.com/user-attachments/assets/ca7b7c2a-178c-427c-a5b1-64f174e7f7e4), and [Real Robot 3](https://github.com/user-attachments/assets/7938f77f-d757-4a13-a6da-70fc602020c5).
 
 
 ## 💡 Introduction
