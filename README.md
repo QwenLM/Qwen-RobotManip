@@ -130,7 +130,7 @@ Qwen-RobotManip is evaluated across task and scene variation, instruction follow
 | RoboTwin-IF | Average SR (%) | **72.2** | 72.0 |
 
 <div align="center">
-  <img src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/robotmanip/images/eval_setting_overall.png" alt="Qwen-RobotManip Evaluation Settings" width="90%"/>
+  <img src="assets/images/eval_setting_overall.png" alt="Qwen-RobotManip Evaluation Settings" width="90%"/>
 </div>
 
 On the RoboChallenge Table30 v1 generalist track, Qwen-RobotManip ranks **#1** with **45%** success rate and a **59.83** process score, outperforming the third-place system by **20%**. It is validated on real-robot platforms including **AgileX ALOHA**, **Franka**, **UR**, and **ARX**.
