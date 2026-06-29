@@ -133,7 +133,13 @@ Qwen-RobotManip is evaluated across task and scene variation, instruction follow
   <img src="assets/images/eval_setting_overall.png" alt="Qwen-RobotManip Evaluation Settings" width="90%"/>
 </div>
 
-On the RoboChallenge Table30 v1 generalist track, Qwen-RobotManip ranks **#1** with **45%** success rate and a **59.83** process score, outperforming the third-place system by **20%**. It is validated on real-robot platforms including **AgileX ALOHA**, **Franka**, **UR**, and **ARX**.
+RoboChallenge Table30 v1 further tests real-world OOD generalization under platform, task, and execution complexity shifts. The generalist track spans **30 tasks across 4 robot platforms**, covering AgileX ALOHA, Franka, UR, and ARX. Qwen-RobotManip ranks **#1** with **45%** success rate and a **59.83** process score, outperforming the third-place system by **20%**.
+
+- **Bimanual coordination.** On the 8 ALOHA tasks that require tight two-arm coordination, Qwen-RobotManip reaches **40%** average success rate, compared with **21.2%** for $\pi_{0.5}$. It is also the only model to succeed on the "pour fries into plate" task, which requires sequential stabilization, opening, lifting, and pouring.
+
+- **Cross-embodiment pick-and-place.** Across 12 pick-and-place-centric tasks distributed over all four platforms, from single-object grasping to multi-step manipulation involving 4-5 objects, Qwen-RobotManip achieves **63.3%** average success rate, surpassing the next-best baseline DM0 (**48.3%**) by **15.0** percentage points.
+
+- **Reactive recovery.** In real-robot trials, the policy can retry after slips or failed grasps without an explicitly scripted recovery routine, suggesting that large-scale aligned pretraining helps the model close the loop between visual feedback and corrective action.
 
 
 ## 📜 Citation
