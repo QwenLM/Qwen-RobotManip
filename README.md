@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://qwenlm.github.io/img/logo.png" alt="Qwen-RobotManip" width="260"/>
+<img src="https://qwenlm.github.io/img/logo.png" alt="Qwen-RobotManip" width="130"/>
 
 <h1 style="border: none;">Qwen-RobotManip</h1>
 
@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2606.17846">📑 Technical Report</a> |
     <a href="https://qwen.ai/blog?id=qwen-robotmanip">📖 Blog</a> |
-    <a href="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_omni_vla_demo_1.mp4">🖥️ Demo</a>
+    <a href="assets/videos/real_omni_vla_demo_1.mp4">🖥️ Demo</a>
 </p>
 
 </div>
@@ -31,10 +31,10 @@ Welcome to the official repository of **Qwen-RobotManip**. Here, you can find of
 <table>
   <tr>
     <td width="50%">
-      <video src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_omni_vla_demo_1.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="assets/videos/real_omni_vla_demo_1.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
     <td width="50%">
-      <video src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_omni_vla_demo_2.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="assets/videos/real_omni_vla_demo_2.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
   </tr>
 </table>
@@ -44,18 +44,18 @@ Qwen-RobotManip is validated across real-robot platforms and tasks, demonstratin
 <table>
   <tr>
     <td width="33%">
-      <video src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_pr1.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="assets/videos/real_pr1.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
     <td width="33%">
-      <video src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_pr2.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="assets/videos/real_pr2.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
     <td width="33%">
-      <video src="https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_pr3.mp4" width="100%" preload="metadata" controls playsinline></video>
+      <video src="assets/videos/real_pr3.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
   </tr>
 </table>
 
-If the videos do not render in your browser, open the direct links: [Omni Demo 1](https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_omni_vla_demo_1.mp4), [Omni Demo 2](https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_omni_vla_demo_2.mp4), [Real Robot 1](https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_pr1.mp4), [Real Robot 2](https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_pr2.mp4), and [Real Robot 3](https://qianwen-res.oss-accelerate.aliyuncs.com/qwenrobot/selected/real_pr3.mp4).
+If the videos do not render in your browser, open the direct links: [Omni Demo 1](assets/videos/real_omni_vla_demo_1.mp4), [Omni Demo 2](assets/videos/real_omni_vla_demo_2.mp4), [Real Robot 1](assets/videos/real_pr1.mp4), [Real Robot 2](assets/videos/real_pr2.mp4), and [Real Robot 3](assets/videos/real_pr3.mp4).
 
 
 ## 💡 Introduction
