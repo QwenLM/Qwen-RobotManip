@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2606.17846">📑 Technical Report</a> |
     <a href="https://qwen.ai/blog?id=qwen-robotmanip">📖 Blog</a> |
-    <a href="https://github.com/user-attachments/assets/a52b8b5c-c2b0-4645-a4c4-a0d6b9a63676">🖥️ Demo</a>
+    <a href="https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_1.mp4">🖥️ Demo</a>
 </p>
 
 </div>
@@ -26,15 +26,15 @@ Welcome to the official repository of **Qwen-RobotManip**. Here, you can find of
 
 ## 🎬 Demo
 
-**Qwen-Omni × Qwen-RobotManip** — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. Qwen-RobotManip completes tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization.
+**Qwen-Omni × Qwen-RobotManip** — Qwen-Omni observes the scene, randomly proposes manipulation tasks via speech, and judges execution in real time. The two demos below are English-subtitled versions. Qwen-RobotManip completes tasks on the fly with no pre-defined task list, demonstrating open-ended instruction following and generalization.
 
 <table>
   <tr>
     <td width="50%">
-      <video src="https://github.com/user-attachments/assets/a52b8b5c-c2b0-4645-a4c4-a0d6b9a63676" width="100%" preload="metadata" controls playsinline></video>
+      <video src="https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_1.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
     <td width="50%">
-      <video src="https://github.com/user-attachments/assets/2ce19939-5f31-4084-a07f-03936a07fda5" width="100%" preload="metadata" controls playsinline></video>
+      <video src="https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_2.mp4" width="100%" preload="metadata" controls playsinline></video>
     </td>
   </tr>
 </table>
@@ -55,7 +55,7 @@ Qwen-RobotManip is validated across real-robot platforms and tasks, demonstratin
   </tr>
 </table>
 
-If the videos do not render in your browser, open the direct links: [Omni Demo 1](https://github.com/user-attachments/assets/a52b8b5c-c2b0-4645-a4c4-a0d6b9a63676), [Omni Demo 2](https://github.com/user-attachments/assets/2ce19939-5f31-4084-a07f-03936a07fda5), [Real Robot 1](https://github.com/user-attachments/assets/2644976f-eadb-4a6d-958f-0d9c7f794800), [Real Robot 2](https://github.com/user-attachments/assets/ca7b7c2a-178c-427c-a5b1-64f174e7f7e4), and [Real Robot 3](https://github.com/user-attachments/assets/7938f77f-d757-4a13-a6da-70fc602020c5).
+If the videos do not render in your browser, open the direct links: [Omni Demo 1](https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_1.mp4), [Omni Demo 2](https://raw.githubusercontent.com/QwenLM/Qwen-RobotManip/main/assets/videos/real_omni_vla_demo_2.mp4), [Real Robot 1](https://github.com/user-attachments/assets/2644976f-eadb-4a6d-958f-0d9c7f794800), [Real Robot 2](https://github.com/user-attachments/assets/ca7b7c2a-178c-427c-a5b1-64f174e7f7e4), and [Real Robot 3](https://github.com/user-attachments/assets/7938f77f-d757-4a13-a6da-70fc602020c5).
 
 
 ## 💡 Introduction
